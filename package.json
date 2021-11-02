@@ -1,0 +1,23 @@
+{
+  "name": "mirmisbahali.github.io",
+  "version": "1.0.0",
+  "description": "misbah's personal website",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirmisbahali/mirmisbahali.github.io.git"
+  },
+  "author": "Mir Misbah Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirmisbahali/mirmisbahali.github.io/issues"
+  },
+  "homepage": "https://github.com/mirmisbahali/mirmisbahali.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
