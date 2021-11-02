@@ -3,4 +3,6 @@ title: Home Page
 layout: base.njk
 ---
 
-Mir Misbah Ali
+<h1 class="display-1">
+    <a href="/blog" class="text-dark">View Blog</a>
+</h1>
