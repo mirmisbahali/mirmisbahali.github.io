@@ -1,0 +1,14 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+<div class="container text-center my-5">
+    <img src="{{ image }}" class="img-fluid mx-auto w-25" alt="">
+    <div class="my-5 px-4 text-start">
+        <h1 class="display-5">{{ title }}</h1>
+        <article class="my-5">
+            {{ content | safe }}
+        </article>
+    </div>
+</div>
+{% endblock content %}
