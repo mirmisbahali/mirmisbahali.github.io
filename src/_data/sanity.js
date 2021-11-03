@@ -11,7 +11,7 @@ const client = sanityClient({
 });
 
 toMarkdown([], {
-  imageOptions: { w: 320, h: 240, fit: "max" },
+  // imageOptions: { w: 720, h: 480, fit: "max" },
   projectId: process.env.SANITY_PROJECT_ID,
   dataset: "production",
 });
@@ -44,7 +44,7 @@ module.exports = async function () {
       return {
         title: p.title,
         slug: p.slug.current,
-        body: toMarkdown(p.body, { serializers }),
+        body: toMarkdown(p.body, { serializers, ...client.config() }),
         excerpt: p.excerpt,
         imgURL: p.mainImage.asset.url,
         imgAlt: p.mainImage.asset.alt,

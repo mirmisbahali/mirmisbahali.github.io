@@ -11,4 +11,15 @@
         </article>
     </div>
 </div>
+
+<script>
+    const imgs = document.querySelectorAll('img');
+
+    imgs.forEach(img => {
+        img.parentNode.classList.add('text-center')
+        img.parentNode.classList.add('my-2')
+        img.classList.add('w-50')
+    })
+
+</script>
 {% endblock content %}
