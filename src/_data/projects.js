@@ -10,12 +10,6 @@ const client = sanityClient({
   useCdn: true, // `false` if you want to ensure fresh data
 });
 
-toMarkdown([], {
-  // imageOptions: { w: 720, h: 480, fit: "max" },
-  projectId: process.env.SANITY_PROJECT_ID,
-  dataset: "production",
-});
-
 const serializers = {
   types: {
     code: (props) =>
@@ -24,19 +18,18 @@ const serializers = {
 };
 
 module.exports = async function () {
-  const query = `*[_type == "post"] | order(createdAt desc) {
+  const query = `*[_type=='project' && !(*[_type == "category" && title=="Featured Project"][0]._id in categories[]._ref)] {
     title,
     slug,
+    body,
     excerpt,
     publishedAt,
-    body,
     mainImage {
-            asset->{_id, url},
-            alt
-        },
-    author->{name}
-  }
-  `;
+    asset -> {_id, url},
+  alt
+  },
+categories
+  }`;
   const params = {};
 
   return await client.fetch(query, params).then((posts) => {
@@ -48,7 +41,6 @@ module.exports = async function () {
         excerpt: p.excerpt,
         imgURL: p.mainImage.asset.url,
         imgAlt: p.mainImage.asset.alt,
-        author: p.author.name,
         publishedAt: p.publishedAt,
       };
     });

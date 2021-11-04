@@ -1,7 +1,7 @@
 ---
 layout: single.njk
 pagination:
-  data: sanity
+  data: projects
   size: 1
   alias: post
   addAllPagesToCollections: true
