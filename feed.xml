@@ -4,7 +4,7 @@
   <subtitle>Mechanical Engineer specialized in Machine Design, Thermal Sciences, CAD and Mechatronics</subtitle>
   <link href="https://mirmisbahali.github.io/feed.xml" rel="self"/>
   <link href="https://mirmisbahali.github.io/"/>
-  <updated>2021-11-05T15:57:21Z</updated>
+  <updated>2021-11-05T16:00:19Z</updated>
   <id>https://mirmisbahali.github.io/</id>
   <author>
     <name>Mir Misbah Ali</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>Contact</title>
     <link href="https://mirmisbahali.github.io/contact/"/>
-    <updated>2021-11-05T15:57:21Z</updated>
+    <updated>2021-11-05T16:00:19Z</updated>
     <id>https://mirmisbahali.github.io/contact/</id>
     <content type="html">
 &lt;div class=&quot;container w-50 my-5&quot;&gt;
@@ -37,7 +37,7 @@
   <entry>
     <title></title>
     <link href="https://mirmisbahali.github.io/"/>
-    <updated>2021-11-05T15:57:21Z</updated>
+    <updated>2021-11-05T16:00:19Z</updated>
     <id>https://mirmisbahali.github.io/</id>
     <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -133,18 +133,9 @@
   </entry>
   
   <entry>
-    <title>sixth project</title>
-    <link href="https://mirmisbahali.github.io/sixth-project/"/>
-    <updated>2021-11-05T15:57:21Z</updated>
-    <id>https://mirmisbahali.github.io/sixth-project/</id>
-    <content type="html">&lt;p&gt;asdfasdf&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
     <title>Projects</title>
     <link href="https://mirmisbahali.github.io/projects/"/>
-    <updated>2021-11-05T15:57:21Z</updated>
+    <updated>2021-11-05T16:00:19Z</updated>
     <id>https://mirmisbahali.github.io/projects/</id>
     <content type="html">
 &lt;div class=&quot;
@@ -159,17 +150,6 @@
 
     
   &lt;div class=&quot;row&quot;&gt;
-    
-    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
-      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
-        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/5c919cd58cc2158d3e36fe88ccb523fd2d554e97-1920x1442.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-          &lt;h5 class=&quot;card-title&quot;&gt;sixth project&lt;/h5&gt;
-          &lt;p class=&quot;card-text&quot;&gt;asdfasdf&lt;/p&gt;
-          &lt;a href=&quot;https://mirmisbahali.github.io/sixth-project&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;
