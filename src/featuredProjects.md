@@ -1,7 +1,7 @@
 ---
 layout: single.njk
 pagination:
-  data: projects
+  data: featuredProjects
   size: 1
   alias: post
   addAllPagesToCollections: true
@@ -13,5 +13,4 @@ eleventyComputed:
 ogtype: article
 permalink: "/{{ post.slug }}/index.html"
 ---
-
 {{post.body}}
