@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mir Misbah Ali</title>
+  <subtitle>Mechanical Engineer specialized in Machine Design, Thermal Sciences, CAD and Mechatronics</subtitle>
+  <link href="https://mirmisbahali.github.io/feed.xml" rel="self"/>
+  <link href="https://mirmisbahali.github.io/"/>
+  <updated>2021-11-05T14:53:32Z</updated>
+  <id>https://mirmisbahali.github.io/</id>
+  <author>
+    <name>Mir Misbah Ali</name>
+    <email>mirmisbahali@hotmail.com</email>
+  </author>
+  
+  <entry>
+    <title>Contact</title>
+    <link href="https://mirmisbahali.github.io/contact/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/contact/</id>
+    <content type="html">
+&lt;div class=&quot;container w-50 my-5&quot;&gt;
+    &lt;h1 class=&quot;text-center mb-5&quot;&gt;Contact Me&lt;/h1&gt;
+    &lt;form action=&quot;https://formsubmit.co/mirmisbahali@hotmail.com&quot; method=&quot;POST&quot;&gt;
+        &lt;div class=&quot;mb-3&quot;&gt;
+          &lt;label for=&quot;senderEmail&quot; class=&quot;form-label&quot;&gt;Email address&lt;/label&gt;
+          &lt;input type=&quot;email&quot; name=&quot;email&quot; class=&quot;form-control&quot; id=&quot;senderEmail&quot; aria-describedby=&quot;emailHelp&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;mb-3&quot;&gt;
+            &lt;label for=&quot;senderMessage&quot; class=&quot;form-label&quot;&gt;Leave Your Message here&lt;/label&gt;
+            &lt;textarea class=&quot;form-control&quot; name=&quot;message&quot; id=&quot;senderMessage&quot; rows=&quot;15&quot;&gt;&lt;/textarea&gt;
+          &lt;/div&gt;
+
+        &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;Submit&lt;/button&gt;
+      &lt;/form&gt;
+&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Third Project</title>
+    <link href="https://mirmisbahali.github.io/third-project/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/third-project/</id>
+    <content type="html">&lt;p&gt;This is third Project&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>First Project</title>
+    <link href="https://mirmisbahali.github.io/first-project/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/first-project/</id>
+    <content type="html">&lt;p&gt;This is the body of the project&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.sanity.io/images/y0zewcru/production/e3fe5032f214c68828f8c04626eb52dce78a0a20-219x230.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://mirmisbahali.github.io/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/</id>
+    <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;!-- Required meta tags --&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
+
+    &lt;!-- SEO --&gt;
+    &lt;title&gt;Mir Misbah Ali&lt;/title&gt;
+
+&lt;meta name=&quot;description&quot; content=&quot;I&amp;apos;m Mir Misbah Ali, a mechanical engineer specializing in Machine Design, Thermal Sciences, CAD and Mechatronics&quot; /&gt;
+&lt;meta name=&quot;robots&quot; content=&quot;index,follow&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Mir Misbah Ali&quot; /&gt;
+
+&lt;link rel=&quot;canonical&quot; href=&quot;https://mirmisbahali.github.io/&quot; /&gt;
+
+&lt;meta property=&quot;og:title&quot; content=&quot;Mir Misbah Ali&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+
+&lt;meta property=&quot;og:url&quot; content=&quot;https://mirmisbahali.github.io/&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;I&amp;apos;m Mir Misbah Ali, a mechanical engineer specializing in Machine Design, Thermal Sciences, CAD and Mechatronics&quot; /&gt;
+
+
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta name=&quot;twitter:site&quot; content=&quot;@mirmisbahali&quot; /&gt;
+&lt;meta name=&quot;twitter:url&quot; content=&quot;https://mirmisbahali.github.io/&quot; /&gt;
+&lt;meta name=&quot;twitter:title&quot; content=&quot;Mir Misbah Ali&quot; /&gt;
+&lt;meta name=&quot;twitter:description&quot; content=&quot;I&amp;apos;m Mir Misbah Ali, a mechanical engineer specializing in Machine Design, Thermal Sciences, CAD and Mechatronics&quot; /&gt;
+
+
+
+
+    &lt;!-- Bootstrap CSS --&gt;
+    &lt;link href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3&quot; crossorigin=&quot;anonymous&quot; /&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://mirmisbahali.github.io/assets/css/home.css&quot; /&gt;
+
+  &lt;/head&gt;
+  &lt;body class=&quot;vw-100 bg-dark&quot;&gt;
+    &lt;nav class=&quot;navbar navbar-expand-lg navbar-dark&quot; style=&quot;background: #131515ff&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;a class=&quot;navbar-brand&quot; href=&quot;https://mirmisbahali.github.io/&quot;&gt;Mir Misbah Ali&lt;/a&gt;
+        &lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-bs-toggle=&quot;collapse&quot; data-bs-target=&quot;#navbarSupportedContent&quot; aria-controls=&quot;navbarSupportedContent&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
+          &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
+        &lt;/button&gt;
+        &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarSupportedContent&quot;&gt;
+          &lt;ul class=&quot;navbar-nav ms-auto mb-2 mb-lg-0&quot;&gt;
+            &lt;li class=&quot;nav-item&quot;&gt;
+              &lt;a class=&quot;nav-link&quot; data-page=&quot;projects&quot; aria-current=&quot;page&quot; href=&quot;https://mirmisbahali.github.io/projects&quot;&gt;Projects&lt;/a&gt;
+            &lt;/li&gt;
+            &lt;li class=&quot;nav-item&quot;&gt;
+              &lt;a class=&quot;nav-link&quot; data-page=&quot;blog&quot; href=&quot;https://intromech.com/&quot; target=&quot;_blank&quot;&gt;Blog&lt;/a&gt;
+            &lt;/li&gt;
+            &lt;li class=&quot;nav-item&quot;&gt;
+                &lt;a class=&quot;nav-link&quot; data-page=&quot;contact&quot; href=&quot;https://mirmisbahali.github.io/contact&quot;&gt;Contact me&lt;/a&gt;
+              &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/nav&gt;
+    &lt;div id=&quot;particles-js&quot;&gt;&lt;/div&gt;
+
+    &lt;main style=&quot;height: 80vh;&quot; class=&quot;vw-100 d-flex flex-column justify-content-center alighn-items-center&quot;&gt;
+        &lt;div class=&quot;container text-light text-start&quot;&gt;
+            &lt;h1 style=&quot;color: #2CF6B3; font-weight: 500;&quot; class=&quot;display-1&quot;&gt;Mir Misbah Ali&lt;/h1&gt;
+            &lt;p class=&quot;sub_title fs-3 px-1&quot;&gt;Mechanical Engineer specializing in Mechanical Design, Thermal Sciences, CAD and Mechatronics&lt;/p&gt;
+            &lt;a href=&quot;https://mirmisbahali.github.io/projects&quot; class=&quot;btn btn-outline-success btn-lg&quot;&gt;View Projects&lt;/a&gt;
+            
+            &lt;a href=&quot;https://mirmisbahali.github.io/contact&quot; class=&quot;btn btn-outline-success btn-lg&quot;&gt;Contact Me&lt;/a&gt;
+        &lt;/div&gt;
+
+    &lt;/main&gt;
+
+
+    &lt;!-- Optional JavaScript; choose one of the two! --&gt;
+
+    &lt;!-- Option 1: Bootstrap Bundle with Popper --&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js&quot; integrity=&quot;sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Option 2: Separate Popper and Bootstrap JS --&gt;
+    &lt;!--
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js&quot; integrity=&quot;sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js&quot; integrity=&quot;sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+    --&gt;
+    &lt;script src=&quot;https://mirmisbahali.github.io/assets/js/main.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;&quot; src=&quot;https://mirmisbahali.github.io/assets/js/particles.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;
+      particlesJS.load(&#39;particles-js&#39;, &#39;/assets/js/particles.json&#39;)
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>sixth project</title>
+    <link href="https://mirmisbahali.github.io/sixth-project/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/sixth-project/</id>
+    <content type="html">&lt;p&gt;asdfasdf&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Projects</title>
+    <link href="https://mirmisbahali.github.io/projects/"/>
+    <updated>2021-11-05T14:53:32Z</updated>
+    <id>https://mirmisbahali.github.io/projects/</id>
+    <content type="html">
+&lt;div class=&quot;
+    container
+    my-5
+  &quot;&gt;
+
+
+  &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
+      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
+        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/09550d7e6e1cbd29988267261884e2d10bf25f38-1920x1280.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;Third Project&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;This is third project&lt;/p&gt;
+          &lt;a href=&quot;https://mirmisbahali.github.io/third-project&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
+      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
+        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/abb242a876cb4eaeed4fd019f537f621c49387a2-1920x2880.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;First Project&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;This is the excerpt of the project&lt;/p&gt;
+          &lt;a href=&quot;https://mirmisbahali.github.io/first-project&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+    
+  &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
+      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
+        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/5c919cd58cc2158d3e36fe88ccb523fd2d554e97-1920x1442.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;sixth project&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;asdfasdf&lt;/p&gt;
+          &lt;a href=&quot;https://mirmisbahali.github.io/sixth-project&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+</content>
+  </entry>
+</feed>
