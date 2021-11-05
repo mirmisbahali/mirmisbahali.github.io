@@ -1,0 +1,16 @@
+main div .btn {
+    color: #2CF6B3;
+    border-color: #2CF6B3;
+
+}
+
+main div .btn:hover {
+    background: #2CF6B3;
+    color: black;
+}
+
+@media only screen and (min-width: 1330px) {
+    .sub_title {
+        width: 50%;
+    }
+  }
