@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Contact
+---
+
+<div class="container w-50 my-5">
+    <h1 class="text-center mb-5">Contact Me</h1>
+    <form action="https://formsubmit.co/mirmisbahali@hotmail.com" method="POST">
+        <div class="mb-3">
+          <label for="senderEmail" class="form-label">Email address</label>
+          <input type="email" name="email" class="form-control" id="senderEmail" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="senderMessage" class="form-label">Leave Your Message here</label>
+            <textarea class="form-control" name="message" id="senderMessage" rows="15"></textarea>
+          </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+</div>
