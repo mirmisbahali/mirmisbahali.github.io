@@ -4,7 +4,7 @@
   <subtitle>Mechanical Engineer specialized in Machine Design, Thermal Sciences, CAD and Mechatronics</subtitle>
   <link href="https://mirmisbahali.github.io/feed.xml" rel="self"/>
   <link href="https://mirmisbahali.github.io/"/>
-  <updated>2021-11-06T07:29:13Z</updated>
+  <updated>2021-11-06T07:31:34Z</updated>
   <id>https://mirmisbahali.github.io/</id>
   <author>
     <name>Mir Misbah Ali</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>Contact</title>
     <link href="https://mirmisbahali.github.io/contact/"/>
-    <updated>2021-11-06T07:29:13Z</updated>
+    <updated>2021-11-06T07:31:34Z</updated>
     <id>https://mirmisbahali.github.io/contact/</id>
     <content type="html">
 &lt;div class=&quot;container w-50 my-5&quot;&gt;
@@ -35,9 +35,27 @@
   </entry>
   
   <entry>
+    <title>INTROMECH - Engineering and Technology Blog</title>
+    <link href="https://mirmisbahali.github.io/intromech-engineering-and-technology-blog/"/>
+    <updated>2021-11-06T07:31:34Z</updated>
+    <id>https://mirmisbahali.github.io/intromech-engineering-and-technology-blog/</id>
+    <content type="html">&lt;p&gt;In 2020, when I was in the second year of my BE Mechanical Engineer program I decided to start a blog on Mechanical Engineering. At that time there were not many resources on the internet for mechanical engineers. So, I started &lt;a href=&quot;https://intromech.com/&quot;&gt;Intromech.com&lt;/a&gt;, a platform where I explain complex engineering concepts in simple and easy to understand ways with animations, infographics, images, etc.&lt;/p&gt;
+&lt;p&gt;I created the &lt;a href=&quot;https://intromech.com/&quot;&gt;intromech.com&lt;/a&gt; website by myself with my knowledge of web development. My main goal was to build a simple user interface, without any distractions so that people can focus more on reading the content instead of getting distracted by the UI. Also I wanted to build a website which is highly accessible, and should have good SEO, and high performance.&lt;/p&gt;
+&lt;p&gt;So, I decided to use the &lt;a href=&quot;https://www.netlify.com/jamstack/&quot;&gt;JAMStack&lt;/a&gt; approach of building websites. JAM in JAMstack stands for Javascript, API, Markup. JAMstack is a modern software architecture and philosophy that allows us to create static assets from an API (in my case from a Content Management System (CMS) ) and then serve those pre-rendered static assets to the users. The static assets can then be deployed to a Content Delivery Network (CDN) which helps in fast delivery of the site to users.&lt;/p&gt;
+&lt;p&gt;I decided to use &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt;, a static site generator to create the website. Because Eleventy is very fast and simple and helps in developing the website fast. I used &lt;a href=&quot;https://www.sanity.io/&quot;&gt;Sanity&lt;/a&gt; as a CMS because Sanity allows many customization options and it&#39;s very easy to deploy on the sanity studio. I deployed the website on Netlify which is a great Content Management System.&lt;/p&gt;
+&lt;h3&gt;Perfect Lighthouse Scores&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.sanity.io/images/y0zewcru/production/a1d8598ae360cc85146f8e1e9730f0e40af2e903-1920x324.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The website is 100% optimised for accessibility and 100% optimized for SEO. The performance of the website is also good and the pages load very fast. I’m using responsive images, lazy loading to increase the performance of the website.&lt;/p&gt;
+&lt;h3&gt;Ranking on the First Page of Google Search&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.sanity.io/images/y0zewcru/production/ba2ab6912e5ac4a78f965447873b895cc6e3868c-1080x654.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Out of 63,90,000 search results, my articles are ranking on the 1st page of Google Search Results for the query “first inversion of slider crank mechanism” just below wikipedia.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title></title>
     <link href="https://mirmisbahali.github.io/"/>
-    <updated>2021-11-06T07:29:13Z</updated>
+    <updated>2021-11-06T07:31:34Z</updated>
     <id>https://mirmisbahali.github.io/</id>
     <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -135,7 +153,7 @@
   <entry>
     <title>Projects</title>
     <link href="https://mirmisbahali.github.io/projects/"/>
-    <updated>2021-11-06T07:29:13Z</updated>
+    <updated>2021-11-06T07:31:34Z</updated>
     <id>https://mirmisbahali.github.io/projects/</id>
     <content type="html">
 &lt;div class=&quot;
@@ -145,6 +163,17 @@
 
 
   &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
+      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
+        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/c20162bf1a35ecb5fc9fa4913c43327861332c97-1920x1080.png&quot; alt=&quot;&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;INTROMECH - Engineering and Technology Blog&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Intromech is an engineering and technology blog.&lt;/p&gt;
+          &lt;a href=&quot;https://mirmisbahali.github.io/intromech-engineering-and-technology-blog&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
     
   &lt;/div&gt;
 
