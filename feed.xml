@@ -4,7 +4,7 @@
   <subtitle>Mechanical Engineer specialized in Machine Design, Thermal Sciences, CAD and Mechatronics</subtitle>
   <link href="https://mirmisbahali.github.io/feed.xml" rel="self"/>
   <link href="https://mirmisbahali.github.io/"/>
-  <updated>2022-04-15T09:56:04Z</updated>
+  <updated>2022-04-16T11:30:08Z</updated>
   <id>https://mirmisbahali.github.io/</id>
   <author>
     <name>Mir Misbah Ali</name>
@@ -14,10 +14,10 @@
   <entry>
     <title>Contact</title>
     <link href="https://mirmisbahali.github.io/contact/"/>
-    <updated>2022-04-15T09:56:04Z</updated>
+    <updated>2022-04-16T11:30:08Z</updated>
     <id>https://mirmisbahali.github.io/contact/</id>
     <content type="html">
-&lt;div class=&quot;container w-50 my-5&quot;&gt;
+&lt;div class=&quot;mx-auto my-5&quot;&gt;
     &lt;h1 class=&quot;text-center mb-5&quot;&gt;Contact Me&lt;/h1&gt;
     &lt;form action=&quot;https://formsubmit.co/mirmisbahali@hotmail.com&quot; method=&quot;POST&quot;&gt;
         &lt;div class=&quot;mb-3&quot;&gt;
@@ -37,7 +37,7 @@
   <entry>
     <title>INTROMECH - Engineering and Technology Blog</title>
     <link href="https://mirmisbahali.github.io/intromech-engineering-and-technology-blog/"/>
-    <updated>2022-04-15T09:56:04Z</updated>
+    <updated>2022-04-16T11:30:08Z</updated>
     <id>https://mirmisbahali.github.io/intromech-engineering-and-technology-blog/</id>
     <content type="html">&lt;p&gt;In 2020, when I was in the second year of my BE Mechanical Engineer program I decided to start a blog on Mechanical Engineering. At that time there were not many resources on the internet for mechanical engineers. So, I started &lt;a href=&quot;https://intromech.com/&quot;&gt;Intromech.com&lt;/a&gt;, a platform where I explain complex engineering concepts in simple and easy to understand ways with animations, infographics, images, etc.&lt;/p&gt;
 &lt;p&gt;I created the &lt;a href=&quot;https://intromech.com/&quot;&gt;intromech.com&lt;/a&gt; website by myself with my knowledge of web development. My main goal was to build a simple user interface, without any distractions so that people can focus more on reading the content instead of getting distracted by the UI. Also I wanted to build a website which is highly accessible, and should have good SEO, and high performance.&lt;/p&gt;
@@ -54,8 +54,16 @@
   
   <entry>
     <title></title>
+    <link href="https://mirmisbahali.github.io/google7c17032b22cb84ea/"/>
+    <updated>2022-04-16T11:30:08Z</updated>
+    <id>https://mirmisbahali.github.io/google7c17032b22cb84ea/</id>
+    <content type="html">google-site-verification: google7c17032b22cb84ea.html</content>
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="https://mirmisbahali.github.io/"/>
-    <updated>2022-04-15T09:56:04Z</updated>
+    <updated>2022-04-16T11:30:08Z</updated>
     <id>https://mirmisbahali.github.io/</id>
     <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -92,6 +100,7 @@
     &lt;!-- Bootstrap CSS --&gt;
     &lt;link href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3&quot; crossorigin=&quot;anonymous&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://mirmisbahali.github.io/assets/css/home.css&quot; /&gt;
+    &lt;link rel=&quot;icon&quot; type=&quot;image/x-icon&quot; href=&quot;https://mirmisbahali.github.io/assets/img/favicon.ico&quot; /&gt;
 
   &lt;/head&gt;
   &lt;body class=&quot;vw-100 bg-dark&quot;&gt;
@@ -153,38 +162,32 @@
   <entry>
     <title>Projects</title>
     <link href="https://mirmisbahali.github.io/projects/"/>
-    <updated>2022-04-15T09:56:04Z</updated>
+    <updated>2022-04-16T11:30:08Z</updated>
     <id>https://mirmisbahali.github.io/projects/</id>
-    <content type="html">
-&lt;div class=&quot;
-    container
-    my-5
-  &quot;&gt;
+    <content type="html">&lt;!-- Page content--&gt;
+&lt;div class=&quot;row my-5&quot;&gt;
+	&lt;!-- Blog entries--&gt;
+	&lt;div class=&quot;col-lg-8&quot;&gt;
+		&lt;!-- Featured blog post--&gt;
 
+		
+		&lt;div class=&quot;card mb-4&quot;&gt;
+			&lt;a href=&quot;https://mirmisbahali.github.io/intromech-engineering-and-technology-blog&quot;&gt;&lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/c20162bf1a35ecb5fc9fa4913c43327861332c97-1920x1080.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+			&lt;div class=&quot;card-body&quot;&gt;
+				&lt;div class=&quot;small text-muted&quot;&gt;2021-11-06T07:18:42.643Z&lt;/div&gt;
+				&lt;h2 class=&quot;card-title&quot;&gt;INTROMECH - Engineering and Technology Blog&lt;/h2&gt;
+				&lt;p class=&quot;card-text&quot;&gt;Intromech is an engineering and technology blog.&lt;/p&gt;
+				&lt;a class=&quot;btn btn-primary&quot; href=&quot;https://mirmisbahali.github.io/intromech-engineering-and-technology-blog&quot;&gt;Read more →&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
 
-  &lt;div class=&quot;row&quot;&gt;
-    
-    &lt;div class=&quot;col-sm-6 col-md-4 my-3 d-flex justify-content-center align-items-center&quot;&gt;
-      &lt;div class=&quot;card&quot; style=&quot;width: 25rem&quot;&gt;
-        &lt;img class=&quot;card-img-top&quot; src=&quot;https://cdn.sanity.io/images/y0zewcru/production/c20162bf1a35ecb5fc9fa4913c43327861332c97-1920x1080.png&quot; alt=&quot;&quot; /&gt;
-        &lt;div class=&quot;card-body&quot;&gt;
-          &lt;h5 class=&quot;card-title&quot;&gt;INTROMECH - Engineering and Technology Blog&lt;/h5&gt;
-          &lt;p class=&quot;card-text&quot;&gt;Intromech is an engineering and technology blog.&lt;/p&gt;
-          &lt;a href=&quot;https://mirmisbahali.github.io/intromech-engineering-and-technology-blog&quot; class=&quot;btn btn-primary&quot;&gt;Read More&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    
-  &lt;/div&gt;
-
-    
-  &lt;div class=&quot;row&quot;&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-</content>
+		&lt;!-- Nested row for non-featured blog posts--&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			
+		&lt;/div&gt;
+		
+	&lt;/div&gt;
+&lt;/div&gt;</content>
   </entry>
 </feed>

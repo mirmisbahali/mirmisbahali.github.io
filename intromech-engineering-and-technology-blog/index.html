@@ -5,6 +5,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+
     <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -73,13 +75,24 @@
     </nav>
     <div class="container">
       
-
-<div class="container text-center my-5">
-    <img src="https://cdn.sanity.io/images/y0zewcru/production/c20162bf1a35ecb5fc9fa4913c43327861332c97-1920x1080.png" class="img-fluid mx-auto w-25" alt="">
-    <div class="my-5 px-4 text-start">
-        <h1 class="display-5">INTROMECH - Engineering and Technology Blog</h1>
-        <article class="my-5">
-            <p>In 2020, when I was in the second year of my BE Mechanical Engineer program I decided to start a blog on Mechanical Engineering. At that time there were not many resources on the internet for mechanical engineers. So, I started <a href="https://intromech.com/">Intromech.com</a>, a platform where I explain complex engineering concepts in simple and easy to understand ways with animations, infographics, images, etc.</p>
+<!-- Page content-->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-lg-8">
+      <!-- Post content-->
+      <article>
+        <!-- Post header-->
+        <header class="mb-4">
+          <!-- Post title-->
+          <h1 class="fw-bolder mb-1">INTROMECH - Engineering and Technology Blog</h1>
+          <!-- Post meta content-->
+          <div class="text-muted fst-italic mb-2">adfasdf</div>
+          
+        </header>
+        <!-- Preview image figure-->
+        <figure class="mb-4"><img class="img-fluid rounded" src="https://cdn.sanity.io/images/y0zewcru/production/c20162bf1a35ecb5fc9fa4913c43327861332c97-1920x1080.png"
+            alt="..." /></figure>
+        <p>In 2020, when I was in the second year of my BE Mechanical Engineer program I decided to start a blog on Mechanical Engineering. At that time there were not many resources on the internet for mechanical engineers. So, I started <a href="https://intromech.com/">Intromech.com</a>, a platform where I explain complex engineering concepts in simple and easy to understand ways with animations, infographics, images, etc.</p>
 <p>I created the <a href="https://intromech.com/">intromech.com</a> website by myself with my knowledge of web development. My main goal was to build a simple user interface, without any distractions so that people can focus more on reading the content instead of getting distracted by the UI. Also I wanted to build a website which is highly accessible, and should have good SEO, and high performance.</p>
 <p>So, I decided to use the <a href="https://www.netlify.com/jamstack/">JAMStack</a> approach of building websites. JAM in JAMstack stands for Javascript, API, Markup. JAMstack is a modern software architecture and philosophy that allows us to create static assets from an API (in my case from a Content Management System (CMS) ) and then serve those pre-rendered static assets to the users. The static assets can then be deployed to a Content Delivery Network (CDN) which helps in fast delivery of the site to users.</p>
 <p>I decided to use <a href="https://www.11ty.dev/">Eleventy</a>, a static site generator to create the website. Because Eleventy is very fast and simple and helps in developing the website fast. I used <a href="https://www.sanity.io/">Sanity</a> as a CMS because Sanity allows many customization options and it's very easy to deploy on the sanity studio. I deployed the website on Netlify which is a great Content Management System.</p>
@@ -90,18 +103,45 @@
 <p><img src="https://cdn.sanity.io/images/y0zewcru/production/ba2ab6912e5ac4a78f965447873b895cc6e3868c-1080x654.png" alt=""></p>
 <p>Out of 63,90,000 search results, my articles are ranking on the 1st page of Google Search Results for the query “first inversion of slider crank mechanism” just below wikipedia.</p>
 
-        </article>
+      </article>
     </div>
+  </div>
 </div>
 
-<script>
-    const imgs = document.querySelectorAll('img');
 
-    imgs.forEach(img => {
-        img.parentNode.classList.add('text-center')
-        img.parentNode.classList.add('my-2')
-        img.classList.add('w-50')
-    })
+
+<script>
+  const imgs = document.querySelectorAll('img');
+  const p = document.querySelectorAll('p');
+  
+  const headings = [];
+  for (let i = 1; i <= 6; i++) {
+    headings.push(document.querySelectorAll(`h${i}`));
+  }
+
+  headings.forEach(heading => {
+    if (heading) {
+      heading.forEach(i => {
+        i.classList.add("fw-bolder")
+        i.classList.add("mb-4")
+        i.classList.add("mt-5")
+      })
+    }
+  })
+  
+
+  p.forEach(i => {
+    i.classList.add("fs-5")
+    i.classList.add("mb-4")
+  })
+
+
+  imgs.forEach(img => {
+    img.parentNode.classList.add('text-center')
+    img.parentNode.classList.add('my-2')
+    img.classList.add('w-100')
+  })
+
 
 </script>
 
